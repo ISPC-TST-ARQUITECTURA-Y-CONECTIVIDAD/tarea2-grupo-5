@@ -32,14 +32,15 @@ características?
 El repositorio se estructura de la siguiente manera:
 - `README.md`: archivo que contiene la descripción del proyecto y la información sobre los integrantes del equipo.
 - `bibliografia`: carpeta que contiene la bibliografía consultada para la realización del trabajo práctico.
-- 'transmision-de-datos': Carpeta que contiene la información relacionada con las formas de transmisión de datos en IoT.
-- 'amplitud-modulada': Carpeta que contiene la información relacionada con la aplicación de la amplitud modulada (AM) en sistemas IoT.
-- 'frecuencia-modulada': Carpeta que contiene la información relacionada con la aplicación de la frecuencia modulada (FM) en sistemas IoT.
-- 'cuadratura-de-amplitud': Carpeta que contiene la información relacionada con la aplicación de la cuadratura de amplitud (QAM) en sistemas IoT.
-- 'modulaciones-digitales': Carpeta que contiene la información relacionada con la aplicación de las modulaciones digitales ASK, FSK y PSK en sistemas IoT.
-- 'protocolo-http': Carpeta que contiene la información relacionada con el protocolo HTTP y sus características.
-- 'protocolo-https': Carpeta que contiene la información relacionada con el protocolo HTTPS y sus características.
-- 'estandares-web': Carpeta que contiene la información relacionada con los estándares web HTML y CSS y sus características.
+- `transmision-de-datos`: Carpeta que contiene la información relacionada con las formas de transmisión de datos en IoT.
+- `amplitud-modulada`: Carpeta que contiene la información relacionada con la aplicación de la amplitud modulada (AM) en sistemas IoT.
+- `frecuencia-modulada`: Carpeta que contiene la información relacionada con la aplicación de la frecuencia modulada (FM) en sistemas IoT.
+- `cuadratura-de-amplitud`: Carpeta que contiene la información relacionada con la aplicación de la cuadratura de amplitud (QAM) en sistemas IoT.
+- `modulaciones-digitales`: Carpeta que contiene la información relacionada con la aplicación de las modulaciones digitales ASK, FSK y PSK en sistemas IoT.
+- `protocolo-http`: Carpeta que contiene la información relacionada con el protocolo HTTP y sus características.
+- `protocolo-https`: Carpeta que contiene la información relacionada con el protocolo HTTPS y sus características.
+- `estandares-web`: Carpeta que contiene la información relacionada con los estándares web HTML y CSS y sus características.
+
 
 
 ## Bibliografía
